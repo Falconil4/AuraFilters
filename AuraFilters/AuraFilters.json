@@ -1,0 +1,17 @@
+{
+    "Author": "Falco",
+    "Name": "Aura Filters",
+    "InternalName": "AuraFilters",
+    "Description": "",
+    "Punchline": "Too many icons in party list? Say no more!",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Falconil4/AuraFilters",
+    "DalamudApiLevel": 9,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/Falconil4/AuraFilters/raw/main/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Falconil4/AuraFilters/raw/main/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Falconil4/AuraFilters/raw/main/latest.zip"
+}
